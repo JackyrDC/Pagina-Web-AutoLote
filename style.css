@@ -1,0 +1,23 @@
+#navbar
+{
+    display: inline-block;
+    position: sticky;
+    background-color: lightslategrey;
+    padding: 2%;
+}
+
+#title
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    display:inline-block;
+}
+
+.bars
+{
+    background-color: lightslategrey;
+    padding: 2%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
